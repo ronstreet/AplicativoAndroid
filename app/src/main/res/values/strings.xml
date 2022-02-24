@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mapbox</string>
+    <string name="punto_de_partida">Punto de partida</string>
+    <string name="punto_de_llegada">Punto de llegada</string>
+    <string name="Guiar">Guiar</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoicm9uc3RyZWV0IiwiYSI6ImNrNWVlcHFmYzI2b2IzZG8za2J1emVpNTMifQ.UwczwBRhFZRxTGRIEyWEfQ</string>
+</resources>
